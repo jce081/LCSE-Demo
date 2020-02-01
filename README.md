@@ -1,0 +1,4 @@
+# LCSE-Demo
+
+Please use a computer only for demo.
+USING ANY RESOLUTION SMALLER THAN A LAPTOP WILL CAUSE PROBLEMS.
